@@ -119,6 +119,32 @@ npm run dev
 
 ---
 
+
+
+## My AI Usage
+
+### AI Tools Used
+
+- ChatGPT (OpenAI)
+
+### How I Used AI
+
+- Generated the initial backend project structure.
+- Assisted in creating REST API endpoints.
+- Helped integrate Prisma ORM with PostgreSQL.
+- Assisted with JWT authentication.
+- Helped build React frontend components.
+- Assisted in debugging frontend and backend issues.
+- Helped improve project documentation.
+
+### Reflection
+
+AI significantly accelerated development by helping generate boilerplate code, explain errors, and suggest solutions. I reviewed, integrated, modified, and tested all generated code before including it in the final project. Using AI allowed me to spend more time understanding the architecture and debugging the application.
+
+
+
+---
+
 ## 👨‍💻 Author
 
 Developed by **Khushal Ghoghari**
