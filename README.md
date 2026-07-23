@@ -7,6 +7,37 @@ A Full Stack Car Dealership Inventory System built using React, Express, TypeScr
 
 A full-stack web application for managing a car dealership inventory.
 
+
+
+
+## Live Demo
+
+Frontend:
+https://car-dealership-inventory-system-green.vercel.app
+
+Backend:
+https://car-dealership-inventory-system-p1sw.onrender.com
+
+## Tech Stack
+
+Frontend:
+- React
+- Vite
+- Tailwind CSS
+
+Backend:
+- Express.js
+- TypeScript
+- Prisma ORM
+- PostgreSQL (Neon)
+
+Authentication:
+- JWT
+
+
+
+
+
 ## 📌 Features
 
 - User Registration
